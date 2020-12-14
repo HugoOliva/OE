@@ -1,4 +1,13 @@
-h1 {
-    color:aliceblue;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+body {
+    background-color: #ffffff;
+  }
+  
+  h1 {
+    background-color: #f5f5dc;
+    color: #666542;
+    text-align: center;
+  }
+
+  p {
+      color: black;
+  }
